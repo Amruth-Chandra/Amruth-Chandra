@@ -3,26 +3,38 @@
   Tip: update the <!-- comments --> throughout to keep this current.
 -->
 
-<h1 align="center">Hi 👋, I'm Amruth Chandra</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Cloud Engineer | CS Undergrad</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Yada%20Amruth%20Chandra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20CS%20Undergrad&descAlignY=58&descSize=20" width="100%"/>
+</p>
+
+<h3 align="center">👋 Welcome to my Digital Space</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+AI+%2F+ML;Exploring+Cloud+%26+DevOps;Open+to+Internships+%26+Full-Time+Roles;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+AI+%2F+ML;Exploring+Cloud+%26+DevOps;Open+to+Internships+%26+Full-Time+Roles;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amruth-chandra-a8235a2a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:amruthchandra1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_GMAIL-D14836?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/amruth-chandra-a8235a2a1" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Amruth-Chandra" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add Portfolio / Twitter badges here if you get one, e.g.:
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <!-- Add a Portfolio badge here once you have a site, e.g.:
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF4B4B?style=for-the-badge" /></a>
   -->
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📌_STATUS-Open_to_Internships_%26_Full--Time-2E9EF7?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amruth-Chandra&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Amruth-Chandra?label=FOLLOWERS&style=for-the-badge&color=blue" />
 </p>
 
 ---
