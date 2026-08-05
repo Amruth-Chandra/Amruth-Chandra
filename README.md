@@ -51,6 +51,9 @@
 - ⚡ **Fast Learner** — always picking up new tools; recently diving into Graph Neural Networks, Kafka, and Spring Boot
 - 🎯 **Detail-Oriented** — happy to spend hours getting one feature exactly right
 - 🎤 **Community Builder** — I love organizing tech events almost as much as building projects
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-3447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 </td>
 <td width="35%" align="center">
