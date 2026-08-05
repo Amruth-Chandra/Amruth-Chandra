@@ -51,14 +51,11 @@
 - ⚡ **Fast Learner** — always picking up new tools; recently diving into Graph Neural Networks, Kafka, and Spring Boot
 - 🎯 **Detail-Oriented** — happy to spend hours getting one feature exactly right
 - 🎤 **Community Builder** — I love organizing tech events almost as much as building projects
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-3447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 </td>
 <td width="35%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width="220" alt="Developer illustration"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="220" alt="Developer illustration"/>
 
 </td>
 </tr>
