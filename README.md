@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README for Yada Amruth Chandra
-  Tip: update the <!-- comments --> throughout to keep this current.
+  Tip: update the <!-- comments --> 
 -->
 
 <p align="center">
