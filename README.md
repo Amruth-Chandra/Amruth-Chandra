@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README for Yada Amruth Chandra
   Tip: update the <!-- comments --> 
--->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Yada%20Amruth%20Chandra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20CS%20Undergrad&descAlignY=58&descSize=20" width="100%"/>
