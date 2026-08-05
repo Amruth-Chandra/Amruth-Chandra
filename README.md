@@ -55,7 +55,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="220" alt="Developer illustration"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 </td>
 </tr>
