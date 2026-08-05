@@ -41,7 +41,8 @@
 
 </td>
 <td width="35%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Animated developer coding" />
+  <!-- NEW: Replaced static image with an animated GIF of a developer. The new GIF features an illustrated person with headphones at a computer, with subtle UI animations. -->
+  <img src="https://giphy.com/embed/5H58G4I0b6x7k38o6M" width="220" style="pointer-events: none;" alt="Animated developer with headphones" />
 </td>
 </tr>
 </table>
